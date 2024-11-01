@@ -105,4 +105,4 @@ This approach allows us to create a print-friendly, custom-designed document mat
 
 ## Conclusion
 
-By using this solution, we overcame the limitations of Storyline's built-in print functionality and external libraries. This approach allows us to gather all user responses across multiple slides and present them in a custom template for printing or downloading, enhancing the user experience
+By using this solution, we overcame the limitations of Storyline's built-in print functionality and external libraries. This approach allows us to gather all user responses across multiple slides and present them in a custom template for printing or downloading, enhancing the user experience.
